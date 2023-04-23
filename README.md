@@ -49,6 +49,7 @@ and how they may affect the `Score` of anime in `Exploratory Data Analysis`.
 Different Machine Learning (ML) techniques
 - Random Forest Classifier
 - Multivariate Linear Regression
+- K-Means Clustering
 Encoders
 - One Hot Encoder
 - Label Encoder
@@ -58,6 +59,12 @@ Encoders
 Data Imputation
 - most-frequent (for categorical)
 - mean (for numerical)
+
+# Conclusion
+- Studios should produce more 'TV' anime and their corresponding specials to suit viewer's preferences
+- Studios should also focus more on the quantity of anime, instead of quality
+- Studios should also remain consistent in producing anime, in order to have consistent scores to suit viewer's preference for quantity
+- Overall, studios should produce 'TV' anime consistently, at high quantity, to suit viewer's preferences, and thus increase profits 
 
 # Our Contributions
 1. Data Cleaning and Preparation: Andrea
