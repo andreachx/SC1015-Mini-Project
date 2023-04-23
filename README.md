@@ -4,6 +4,10 @@
 
 # Our Problem Statement
 We want to predict viewers' liking of a new anime based on various factors such as producing company, genres, age ratings and number of episodes, etc.
+This project is by:
+- @andreachx
+- @PixelPusher42
+- @loke0081
 
 # Our Motivation
 - With the wide variety of anime available, it may overwhelm viewers when choosing what show to watch. As such, our analysis helps to predict and improve viewer satisfaction.
@@ -69,9 +73,9 @@ Data Imputation
 # Our Contributions
 1. Data Cleaning and Preparation: Andrea
 2. EDA and Visualisation: Andrea, Hain Eu
-3. Multivariate Regression: Chi, Hain Eu
+3. Multivariate Regression: Chi
 4. Random Forest Classification: Andrea
-5. K-Means Clustering: Chi, Hain Eu
+5. K-Means Clustering: Chi
 6. Presentation Slides Deck: Hain Eu, Chi, Andrea
 7. Presentation Script: Hain Eu, Chi, Andrea
 8. Presentation Voiceover: Hain Eu
