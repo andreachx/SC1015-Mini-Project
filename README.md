@@ -5,9 +5,9 @@
 # Our Problem Statement
 We want to predict viewers' liking of a new anime based on various factors such as producing company, genres, age ratings and number of episodes, etc.
 This project is by:
-- @andreachx
-- @PixelPusher42
-- @loke0081
+- @andreachx (CHEA0073@e.ntu.edu.sg)
+- @PixelPusher42 (CHI011@e.ntu.edu.sg)
+- @loke0081 (LOKE0081@e.ntu.edu.sg)
 
 # Our Motivation
 - With the wide variety of anime available, it may overwhelm viewers when choosing what show to watch. As such, our analysis helps to predict and improve viewer satisfaction.
