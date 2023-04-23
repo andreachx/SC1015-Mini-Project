@@ -80,3 +80,9 @@ Data Imputation
 - https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
 - https://towardsdatascience.com/catboost-regression-in-6-minutes-3487f3e5b329
 - https://www.webucator.com/article/python-color-constants-module/
+- https://www.kaggle.com/code/xshaimaa/9000-movies-dataset-analysis
+- https://www.kaggle.com/code/xshaimaa/9000-movies-dataset-analysis
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.explode.html
+- https://stackoverflow.com/search?q=one+hot+encoder
+- https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.astype.html
